@@ -1,0 +1,67 @@
+.Card {
+  width: 50%;
+  height: 500px;
+  background-color: rgb(247, 211, 112);
+  margin: 20px 20%;
+}
+
+.box1 {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 30px;
+}
+
+.date {
+  font-size: 40px;
+  font-weight: 600;
+}
+
+.amazon {
+  font-size: 100px;
+  font-weight: 600;
+  margin: -10px 0px;
+}
+
+.butt {
+  width: 120px;
+  height: 22px;
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  padding: 20px 0;
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  margin: 0 30px;
+}
+
+.heading p {
+  font-size: 35px;
+  font-weight: 700;
+  margin: 30px 30px;
+}
+
+.subHeading {
+  display: flex;
+  justify-content: space-between;
+}
+
+.subHeading p {
+  margin-left: 30px;
+}
+
+.arrow {
+  font-size: 100px;
+  font-weight: 600;
+  margin-top: -35px;
+  margin-right: 20px;
+}
+
+.datee {
+  font-size: 25px;
+}
+
+.amazon img {
+  width: 50px;
+  height: 60px;
+}
